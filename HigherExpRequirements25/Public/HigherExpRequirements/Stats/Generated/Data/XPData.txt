@@ -1,4 +1,4 @@
-key "Level1","300"
+key "Level1","375"
 
 key "Level2","750"
 
